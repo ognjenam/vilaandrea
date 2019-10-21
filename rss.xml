@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Vila Andrea | Smeštaj Bela Crkva</title>
+    <link>http://www.milosdjacic.com/40_17/</link>
+    <description>U Apartmanima Andrea svoj odmor provešćete kao kod kuće.</description>
+    <pubDate>Mon, 5 Mar 2018 19:52:31 </pubDate>
+    <copyright>Copyright 2018, Vila Andrea</copyright>
+    <item>
+    <title>Galerija slika</title>
+    <link>http://www.milosdjacic.com/40_17/galerija.html</link>
+    <description>Pogledajte nove fotografije apartmana!</description>
+    <pubDate>Thu, 8 Mar 2018</pubDate>
+    </item>
+    <item>
+      <title>Cenovnik</title>
+      <link>http://www.milosdjacic.com/40_17/rezervacije.html</link>
+      <description>Povoljne cene apartmana na samoj obali jezera u Beloj Crkvi. Pogledajte cenovnik!</description>
+      <pubDate>Fri, 9 Mar 2018</pubDate>
+    </item>
+  </channel>
+</rss>
