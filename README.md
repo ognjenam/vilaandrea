@@ -7,6 +7,7 @@ This project is school project about 'Vila Andrea' guest house.
 
 ## Technologies 
 Project is created with: 
+- jQuery
 - Bootstrap 3
 - HTML 5
 - CSS 3
